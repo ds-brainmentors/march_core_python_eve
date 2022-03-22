@@ -1,0 +1,19 @@
+lower: converts string into  lowercase
+
+upper: converts string into uppercase
+
+title: converts first letter of every word into upper case. Rest string is in 
+       lower case
+
+captalize: converts first letter into uppercase. Result string lowercase
+
+swapcase: swaps the case of letters in a string
+
+isalpha:  returns true if string is made of letters only otherwise return false
+
+isdigit: returns true if string contains only numbers otherwise return false
+
+isalnum: returns true if string contians only numbers or letters or there combination
+
+isspace: returns true if string contains only space 
+
